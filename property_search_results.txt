@@ -1,0 +1,45 @@
+Properties between $60,000.00 and $100,000.00:
+
+ID: 70341343, Price: $95,000.00, Bedrooms: 4, Location: austin, Date Listed: 2018
+ID: 64533962, Price: $66,900.00, Bedrooms: 3, Location: austin, Date Listed: 2018
+ID: 58311776, Price: $62,500.00, Bedrooms: 3, Location: austin, Date Listed: 2018
+ID: 111371162, Price: $65,000.00, Bedrooms: 3, Location: austin, Date Listed: 2020
+ID: 80102437, Price: $79,000.00, Bedrooms: 4, Location: del valle, Date Listed: 2019
+ID: 63838089, Price: $74,000.00, Bedrooms: 3, Location: del valle, Date Listed: 2019
+ID: 80102333, Price: $70,000.00, Bedrooms: 4, Location: austin, Date Listed: 2020
+ID: 29428864, Price: $69,000.00, Bedrooms: 2, Location: austin, Date Listed: 2018
+ID: 29425371, Price: $72,900.00, Bedrooms: 3, Location: austin, Date Listed: 2019
+ID: 29467740, Price: $71,900.00, Bedrooms: 3, Location: austin, Date Listed: 2018
+ID: 124836948, Price: $70,000.00, Bedrooms: 3, Location: austin, Date Listed: 2018
+ID: 29508319, Price: $70,000.00, Bedrooms: 2, Location: austin, Date Listed: 2019
+ID: 83814520, Price: $77,500.00, Bedrooms: 3, Location: del valle, Date Listed: 2020
+ID: 29389840, Price: $74,500.00, Bedrooms: 3, Location: austin, Date Listed: 2018
+ID: 2142047553, Price: $79,900.00, Bedrooms: 3, Location: austin, Date Listed: 2019
+ID: 29392771, Price: $79,000.00, Bedrooms: 3, Location: austin, Date Listed: 2019
+ID: 64661010, Price: $81,000.00, Bedrooms: 4, Location: austin, Date Listed: 2019
+ID: 64641716, Price: $79,900.00, Bedrooms: 4, Location: austin, Date Listed: 2018
+ID: 29463904, Price: $86,000.00, Bedrooms: 2, Location: austin, Date Listed: 2019
+ID: 58301468, Price: $85,000.00, Bedrooms: 3, Location: austin, Date Listed: 2020
+ID: 29415520, Price: $82,900.00, Bedrooms: 3, Location: austin, Date Listed: 2019
+ID: 29485080, Price: $81,000.00, Bedrooms: 3, Location: austin, Date Listed: 2019
+ID: 62607221, Price: $94,999.00, Bedrooms: 2, Location: austin, Date Listed: 2020
+ID: 29415562, Price: $93,000.00, Bedrooms: 3, Location: austin, Date Listed: 2019
+ID: 70326486, Price: $88,000.00, Bedrooms: 3, Location: austin, Date Listed: 2018
+ID: 29392663, Price: $92,143.00, Bedrooms: 2, Location: austin, Date Listed: 2019
+ID: 29503063, Price: $88,000.00, Bedrooms: 3, Location: austin, Date Listed: 2019
+ID: 29503044, Price: $92,500.00, Bedrooms: 3, Location: austin, Date Listed: 2019
+ID: 29389617, Price: $94,900.00, Bedrooms: 3, Location: austin, Date Listed: 2018
+ID: 29557309, Price: $94,900.00, Bedrooms: 4, Location: austin, Date Listed: 2018
+ID: 29422763, Price: $100,000.00, Bedrooms: 2, Location: austin, Date Listed: 2018
+ID: 29421571, Price: $99,000.00, Bedrooms: 3, Location: austin, Date Listed: 2018
+ID: 29434786, Price: $97,650.00, Bedrooms: 2, Location: austin, Date Listed: 2019
+ID: 29383171, Price: $95,000.00, Bedrooms: 2, Location: austin, Date Listed: 2019
+ID: 29509096, Price: $97,500.00, Bedrooms: 1, Location: austin, Date Listed: 2019
+ID: 29415723, Price: $99,000.00, Bedrooms: 3, Location: austin, Date Listed: 2019
+ID: 29415721, Price: $99,900.00, Bedrooms: 4, Location: austin, Date Listed: 2018
+ID: 29435211, Price: $99,000.00, Bedrooms: 4, Location: austin, Date Listed: 2020
+ID: 29466257, Price: $99,800.00, Bedrooms: 3, Location: austin, Date Listed: 2018
+ID: 29412425, Price: $99,000.00, Bedrooms: 1, Location: austin, Date Listed: 2020
+ID: 29494835, Price: $99,900.00, Bedrooms: 3, Location: austin, Date Listed: 2019
+ID: 29449298, Price: $99,950.00, Bedrooms: 3, Location: austin, Date Listed: 2020
+ID: 29404407, Price: $99,900.00, Bedrooms: 4, Location: austin, Date Listed: 2019
